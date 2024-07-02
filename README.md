@@ -1,1 +1,3 @@
 # sampleAIforclass
+
+acivate sample
